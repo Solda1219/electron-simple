@@ -1,2 +1,2 @@
-# electron-simple
-This is electron use example
+# electron_simple
+this is just taste of electron
